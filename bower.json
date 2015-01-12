@@ -1,0 +1,13 @@
+{
+  "name": "assemble-talk",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LisaStoz/assemble-talk",
+  "authors": [
+    "Jelizaveta Potapova <potapova.jelizaveta@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}

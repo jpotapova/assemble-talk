@@ -1,1 +1,6 @@
-{}
+{
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "assemble": "^0.4.42"
+  }
+}

@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = function(grunt) {
 
   grunt.initConfig({
     assemble: {
