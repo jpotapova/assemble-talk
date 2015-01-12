@@ -12,6 +12,20 @@ A workshop on [Grunt Assemble plugin](http://assemble.io/), includes a demonstra
 - tips and tricks
 - reduce manual configuration by generating menu, breadcrumbs etc. automatically (optional)
 
+## Prerequisites
+
+### Knowledge
+
+Participants are required to understand HTML. Knowledge of Grunt is not required but would be very helpful.
+
+### Environment
+
+- node, npm (http://nodejs.org/)
+- bower (http://bower.io/)
+- grunt (http://gruntjs.com/)
+- code editor
+- browser
+
 ## Slides
 
 http://lisastoz.github.io/assemble-talk/slides/#/
