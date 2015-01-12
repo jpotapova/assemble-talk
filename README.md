@@ -8,8 +8,8 @@ A workshop on [Grunt Assemble plugin](http://assemble.io/), includes a demonstra
 - create, reuse and configure layouts
 - separate HTML bits into components, reuse them and configure
 - reuse content
-- create a simple and memorable convention that is being picked up by Grunt automatically
 - tips and tricks
+- create a simple and memorable convention that is being picked up by Grunt automatically (optional)
 - reduce manual configuration by generating menu, breadcrumbs etc. automatically (optional)
 
 ## Prerequisites
@@ -17,6 +17,7 @@ A workshop on [Grunt Assemble plugin](http://assemble.io/), includes a demonstra
 ### Knowledge
 
 Participants are required to understand HTML. Knowledge of Grunt is not required but would be very helpful.
+For the optional topics node.js knowledge is required.
 
 ### Environment
 
