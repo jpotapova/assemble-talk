@@ -8,7 +8,8 @@ A workshop on [Grunt Assemble plugin](http://assemble.io/), includes a demonstra
 - create, reuse and configure layouts
 - separate HTML bits into components, reuse them and configure
 - reuse content
-- create a simple and memorable convention that is beign picked up Grunt automatically
+- create a simple and memorable convention that is being picked up by Grunt automatically
+- tips and tricks
 - reduce manual configuration by generating menu, breadcrumbs etc. automatically (optional)
 
 ## Slides
