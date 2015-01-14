@@ -1,3 +1,5 @@
 # Getting Started with Grunt Assemble
 
-Slides.
+View the slides:
+
+http://lisastoz.github.io/assemble-talk/slides/#/
