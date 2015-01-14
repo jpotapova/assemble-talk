@@ -31,4 +31,4 @@ http://lisastoz.github.io/assemble-talk/slides/#/
 
 ## Exercises
 
-[Full list of steps](https://github.com/LisaStoz/assemble-talk/tree/exercises) from initial package on [master branch](https://github.com/LisaStoz/assemble-talk) to a final result.
+[Full list of steps](https://github.com/LisaStoz/assemble-talk/tree/final-result) from initial package on [master branch](https://github.com/LisaStoz/assemble-talk) to a final result.

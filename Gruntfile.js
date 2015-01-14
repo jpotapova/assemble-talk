@@ -8,4 +8,6 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('assemble');
 
+  grunt.registerTask('default', ['assemble']);
+
 };
