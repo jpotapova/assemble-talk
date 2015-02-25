@@ -20,7 +20,6 @@ For the optional topics node.js knowledge is required.
 ### Environment
 
 - node, npm (http://nodejs.org/)
-- bower (http://bower.io/)
 - grunt (http://gruntjs.com/)
 - code editor
 - browser
