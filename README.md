@@ -28,6 +28,9 @@ For the optional topics node.js knowledge is required.
 
 http://lisastoz.github.io/assemble-talk/slides/#/
 
-## Exercises
+## Handout, exercises and explanation
 
-[Full list of steps](https://github.com/LisaStoz/assemble-talk/tree/final-result) from initial package on [master branch](https://github.com/LisaStoz/assemble-talk) to a final result.
+Read [full explanation on my blog](http://www.jpotapova.info/blog/getting-started-with-assemble/).
+
+[Handout](https://github.com/LisaStoz/assemble-talk/tree/handout)
+[Final results](https://github.com/LisaStoz/assemble-talk/tree/diy-data)
