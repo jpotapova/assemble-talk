@@ -32,5 +32,6 @@ http://lisastoz.github.io/assemble-talk/slides/#/
 
 Read [full explanation on my blog](http://www.jpotapova.info/blog/getting-started-with-assemble/).
 
-[Handout](https://github.com/LisaStoz/assemble-talk/tree/handout)
-[Final results](https://github.com/LisaStoz/assemble-talk/tree/diy-data)
+Handout - https://github.com/LisaStoz/assemble-talk/tree/handout
+
+Final results - https://github.com/LisaStoz/assemble-talk/tree/diy-data
