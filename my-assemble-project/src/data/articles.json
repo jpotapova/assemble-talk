@@ -1,0 +1,21 @@
+{
+  "article1": {
+    "title": "Article 1",
+    "intro": "<p class='text-danger'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque felis velit, laoreet vel varius ut, dignissim vel turpis. Pellentesque ac nibh a odio venenatis vestibulum. </p><p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>",
+    "link": "article1"
+  },
+  "homepage": {
+    "title": "Welcome!",
+    "intro": "<p class='lead'>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p><p><a class='btn btn-lg btn-success' href='register.html' role='button'>Get started today</a></p>"
+  },
+  "article2": {
+    "title": "Article 2",
+    "intro": "  <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>",
+    "link": "article2"
+  },
+  "article3": {
+    "title": "Article 3",
+    "intro": "<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>",
+    "link": "article3"
+  }
+}
